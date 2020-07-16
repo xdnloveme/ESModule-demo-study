@@ -1,0 +1,14 @@
+node_modules
+.DS_Store
+npm-debug.log
+yarn-error.log
+.idea
+.vscode
+.yarnclean
+*.orig
+dist/
+coverage/
+__benchmarks__/__snapshots__/
+packages/diy-sdk/run.bat
+default/
+*.bat
