@@ -1,0 +1,22 @@
+{
+  "name": "esmodule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "acorn": "^7.3.1",
+    "acorn-walk": "^7.2.0",
+    "esbuild": "^0.5.16",
+    "escodegen": "^1.14.3",
+    "http": "0.0.1-security",
+    "koa": "^2.13.0",
+    "react": "npm:@pika/react@^16.13.1",
+    "react-dom": "npm:@pika/react-dom@^16.13.1"
+  }
+}
