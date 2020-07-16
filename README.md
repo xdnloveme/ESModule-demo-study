@@ -15,10 +15,13 @@
 ```bash
 # 进入目录
 cd esbuild
+
 # 利用webpack打包的时间
 npm run webpack
+
 # 利用esbuild打包的时间
 npm run esbuild
+
 # 两者对比
 npm run compare
 ```
@@ -32,10 +35,13 @@ npm run compare
 ```bash
 # 进入目录
 cd esModule
+
 # 安装依赖
 npm i
+
 # 启动ESM开发服务器
 npm start
+
 # 打开浏览器 localhost:5555
 ```
 
@@ -46,9 +52,11 @@ npm start
 ```bash
 # 进入目录
 cd ReactEsModule
+
 # 安装依赖
 npm i
 # 启动ESM开发服务器
+
 npm start
 # 打开浏览器 localhost:5555
 ```
@@ -60,9 +68,12 @@ npm start
 ```bash
 # 进入目录
 cd ReactEsModule-Middleware
+
 # 安装依赖
 npm i
+
 # 启动ESM开发服务器
 npm start
+
 # 打开浏览器 localhost:5555
 ```
